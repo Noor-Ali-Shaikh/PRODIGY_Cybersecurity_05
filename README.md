@@ -87,11 +87,6 @@ wrpcap('captured_traffic.pcap', packets)
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork** this repo and submit a **pull request**.
 
----
-
-## 🌟 Connect & Support
-🔗 **LinkedIn:** [Your Name](https://www.linkedin.com/in/noor-ali-87787b26a/)
-🐙 **GitHub:** [YourUsername](https://github.com/Noor-Ali)  
-💌 **Email:** shaikhnoorali92@gmail.com  
+--
 
 🚀 **If you like this project, don't forget to ⭐ the repo!**
